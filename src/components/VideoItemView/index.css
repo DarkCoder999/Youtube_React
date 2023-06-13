@@ -1,0 +1,34 @@
+.all-videos-container {
+  background-color: #f9f9f9;
+}
+.container1 {
+  width: 15vw;
+}
+.container {
+  display: flex;
+}
+.container2 {
+  width: 85vw;
+}
+.responsive-container {
+  width: 80vw;
+}
+.video-content {
+  display: flex;
+}
+.video-details {
+  display: flex;
+  flex-direction: column;
+}
+.details {
+  display: flex;
+  justify-content: space-between;
+}
+.icons {
+  display: flex;
+}
+.buttons {
+  background-color: transparent;
+  border: 0;
+  font-size: 15px;
+}

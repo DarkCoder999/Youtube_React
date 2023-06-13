@@ -1,0 +1,20 @@
+.banner_ {
+  height: 20vh;
+  width: 85vw;
+  display: flex;
+  justify-content: space-between;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/nxt-watch-banner-bg.png');
+  background-size: contain;
+}
+.close_ {
+  background-color: transparent;
+  border: 0;
+  position: relative;
+  top: -6vh;
+  right: 1vw;
+}
+.banner_details {
+  padding-left: 3vw;
+  display: flex;
+  margin: 1vh;
+}

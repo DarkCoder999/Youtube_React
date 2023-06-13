@@ -1,0 +1,20 @@
+.no-videos-view {
+  text-align: center;
+  padding: 10px;
+}
+.no-videos-img {
+  width: 50vw;
+  height: 70vh;
+}
+.videos-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+.all-videos-container {
+  background-color: #f9f9f9;
+}
+.search {
+  margin-left: 3vw;
+  margin-top: 3vw;
+  width: 20vw;
+}

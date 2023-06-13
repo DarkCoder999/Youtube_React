@@ -1,0 +1,20 @@
+.close {
+  background-color: transparent;
+  border: 0;
+  position: relative;
+  top: -6vh;
+  right: 1vw;
+}
+.banner-details {
+  padding-left: 3vw;
+  margin: 1vh;
+}
+.website-logo1 {
+  height: 5vh;
+}
+.button {
+  background-color: transparent;
+  border-width: 2px;
+  border-radius: 6px;
+  padding: 5px;
+}

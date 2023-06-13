@@ -1,0 +1,9 @@
+.container1 {
+  width: 15vw;
+}
+.container {
+  display: flex;
+}
+.container2 {
+  width: 85vw;
+}

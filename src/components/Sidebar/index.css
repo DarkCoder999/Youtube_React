@@ -1,0 +1,28 @@
+.nav-sidebar {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+  padding: 10px;
+}
+.nav-content {
+  margin-top: 4vh;
+}
+.nav-menu {
+  list-style-type: none;
+}
+.nav-link {
+  text-decoration: none;
+}
+.list-item {
+  margin-bottom: 1vh;
+  color: black;
+}
+.logos {
+  display: flex;
+}
+.logo {
+  height: 20%;
+  width: 20%;
+  margin-right: 10px;
+}

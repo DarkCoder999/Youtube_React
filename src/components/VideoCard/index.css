@@ -1,0 +1,14 @@
+.video-item {
+  list-style-type: none;
+  color: #424242;
+  height: 55vh;
+  width: 25vw;
+  margin: 10px;
+}
+.thumbnail {
+  height: 30vh;
+  width: 25vw;
+}
+.content {
+  display: flex;
+}
